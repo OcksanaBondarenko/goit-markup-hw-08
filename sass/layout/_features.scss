@@ -1,0 +1,28 @@
+.features-list {
+    display: flex;
+}
+
+.features-list__item {
+    flex-basis: calc ((1200px - 90px) / 4);
+    &:not(:first-child){margin-left: 30px;}
+}
+
+.features-list__title {
+    margin-top: 30px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--primary-text-color-theme-light);
+    margin-bottom: 10px;
+}
+
+.features-list__text {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    /* or 171% */
+    letter-spacing: 0.03em;
+    color: var(--secondary-primary-text-color-theme-light);
+}

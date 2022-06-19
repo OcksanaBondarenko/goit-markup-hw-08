@@ -1,0 +1,29 @@
+@import './utils/vars.scss';
+
+@import './base/reset';
+
+@import './components/img';
+@import './components/address';
+@import './components/list';
+@import './components/link';
+@import './components/container';
+@import './components/logo';
+@import './components/logo__part';
+@import './components/subtitle';
+@import './components/social';
+@import './components/clients-list';
+@import './components/list-picture';
+@import './components/list-picture__link';
+
+
+@import './layout/header';
+@import './layout/hero';
+@import './layout/features';
+@import './layout/about-us';
+@import './layout/team';
+@import './layout/clients';
+@import './layout/footer';
+@import './layout/footer-form';
+@import './layout/portfolio';
+@import './layout/modal-window';
+

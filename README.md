@@ -1,2 +1,1 @@
-# goit-markup-hw-08
-Adaptive layout. Responsive Graphics
+# goit-markup-hw-031
